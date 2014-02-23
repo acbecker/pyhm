@@ -1,0 +1,2 @@
+class Prior(object):
+    pass
